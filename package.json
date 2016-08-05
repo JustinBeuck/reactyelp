@@ -1,0 +1,19 @@
+{
+  "name": "yelpreact",
+  "version": "1.0.0",
+  "description": "fullstack react application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBeuck/reactyelp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinBeuck/reactyelp/issues"
+  },
+  "homepage": "https://github.com/JustinBeuck/reactyelp#readme"
+}
